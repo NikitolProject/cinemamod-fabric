@@ -1,0 +1,128 @@
+[1011/002728.687:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1011/002729.425:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002733.825:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002743.974:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1011/002758.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002802.891:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002804.438:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/002804.672:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[1011/002805.114:INFO:CONSOLE(4917)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/703706a9/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4917)
+[1011/002805.267:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[1011/002805.267:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[1011/002805.267:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[1011/002805.267:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[1011/002805.309:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/002805.454:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[1011/002805.589:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/002806.020:INFO:CONSOLE(4917)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/703706a9/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4917)
+[1011/002807.000:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002809.441:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=Z-TBiPdEQ-w (0)
+[1011/002815.427:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1011/002821.389:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1011/002823.214:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/002823.529:INFO:CONSOLE(4917)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/703706a9/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4917)
+[1011/002827.875:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002828.612:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002828.627:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002828.628:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002828.658:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002828.658:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002828.689:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002828.689:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002829.160:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002829.515:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002834.693:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002837.005:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002838.755:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1011/002839.797:INFO:CONSOLE(1)] "Getting LocalStorageManager instance", source: https://di.phncdn.com/www-static/js/lib/ph-functions.js?cache=2023101005 (1)
+[1011/002840.678:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002840.729:INFO:CONSOLE(8894)] "ServiceWorker registration successful", source: https://rt.pornhub.com/ (8894)
+[1011/002843.224:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002843.271:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002843.448:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002843.483:ERROR:shared_image_manager.cc(202)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1011/002843.485:ERROR:shared_image_manager.cc(202)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1011/002843.487:ERROR:shared_image_manager.cc(202)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1011/002843.489:ERROR:shared_image_manager.cc(202)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1011/002843.489:ERROR:shared_image_manager.cc(202)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1011/002847.150:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002847.879:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002847.880:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002847.895:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002847.927:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002847.943:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002848.418:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002853.381:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1011/002854.036:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002855.999:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/002856.394:INFO:CONSOLE(423)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-search/_/js/k=boq-search.VisualFrontendUi.en_US.ftAeZa1FWUQ.es5.O/am=QACAAAAAAAAAAAAABPwAMP__P9mnVowA3Jf-______9XEUhc_RcMIAAdOgAb-QYAkACAAeBUHAYEVAEA0gMwgJhEAChq6J4qAAgADnyUAAJgAiAggAIAAAIAAOojYCDwBwgEAIQzQYAAAAAAAFzzgAEBAAAAAAAAAAAAhCoGAAAAAAAAAAAACIBNAg/d=1/excm=_b,_tp,searchview/ed=1/dg=0/wt=2/ujg=1/rs=AH7-fg5vbsp5NSRTHExdmNBYgrk3Jd1WkQ/m=_b,_tp (423)
+[1011/002856.394:INFO:CONSOLE(423)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-search/_/js/k=boq-search.VisualFrontendUi.en_US.ftAeZa1FWUQ.es5.O/am=QACAAAAAAAAAAAAABPwAMP__P9mnVowA3Jf-______9XEUhc_RcMIAAdOgAb-QYAkACAAeBUHAYEVAEA0gMwgJhEAChq6J4qAAgADnyUAAJgAiAggAIAAAIAAOojYCDwBwgEAIQzQYAAAAAAAFzzgAEBAAAAAAAAAAAAhCoGAAAAAAAAAAAACIBNAg/d=1/excm=_b,_tp,searchview/ed=1/dg=0/wt=2/ujg=1/rs=AH7-fg5vbsp5NSRTHExdmNBYgrk3Jd1WkQ/m=_b,_tp (423)
+[1011/002901.546:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002902.532:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002903.487:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002908.310:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002919.557:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002920.809:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002925.784:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002937.556:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/002938.891:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/002942.674:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/003006.859:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/003014.407:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005225.344:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1011/005226.047:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005233.978:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005236.002:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/005236.235:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[1011/005236.930:INFO:CONSOLE(4917)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/703706a9/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4917)
+[1011/005237.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[1011/005237.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[1011/005237.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[1011/005237.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[1011/005237.049:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/005237.219:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[1011/005237.370:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/005237.933:INFO:CONSOLE(4917)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/703706a9/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4917)
+[1011/005239.003:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005245.895:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005250.860:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1011/005254.291:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005257.348:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005258.176:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005258.191:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005258.206:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005258.207:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005258.207:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005258.256:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005258.315:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005300.803:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005305.139:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005310.120:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005313.585:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005316.624:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005317.449:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005317.462:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005317.477:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005317.477:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005320.258:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005330.347:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1011/005345.631:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1011/005345.731:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005348.808:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1011/005405.200:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005424.485:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1011/005435.064:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005607.886:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1011/005608.640:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005619.861:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005635.378:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1011/005722.109:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1119/183812.708:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1119/183813.573:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[1119/183815.686:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
