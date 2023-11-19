@@ -15,34 +15,34 @@ goto end
 :: Make sure the source files have been compiled.
 call compile.bat %1
 
-call make_jni_header.bat %1 org.cef.CefApp
-call make_jni_header.bat %1 org.cef.browser.CefBrowser_N
-call make_jni_header.bat %1 org.cef.browser.CefFrame_N
-call make_jni_header.bat %1 org.cef.browser.CefMessageRouter_N
-call make_jni_header.bat %1 org.cef.browser.CefRequestContext_N
-call make_jni_header.bat %1 org.cef.callback.CefAuthCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefBeforeDownloadCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefCommandLine_N
-call make_jni_header.bat %1 org.cef.callback.CefCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefContextMenuParams_N
-call make_jni_header.bat %1 org.cef.callback.CefDownloadItem_N
-call make_jni_header.bat %1 org.cef.callback.CefDownloadItemCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefDragData_N
-call make_jni_header.bat %1 org.cef.callback.CefFileDialogCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefJSDialogCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefMenuModel_N
-call make_jni_header.bat %1 org.cef.callback.CefPrintDialogCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefPrintJobCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefQueryCallback_N
-call make_jni_header.bat %1 org.cef.callback.CefSchemeRegistrar_N
-call make_jni_header.bat %1 org.cef.handler.CefClientHandler
-call make_jni_header.bat %1 org.cef.misc.CefPrintSettings_N
-call make_jni_header.bat %1 org.cef.network.CefCookieManager_N
-call make_jni_header.bat %1 org.cef.network.CefPostData_N
-call make_jni_header.bat %1 org.cef.network.CefPostDataElement_N
-call make_jni_header.bat %1 org.cef.network.CefRequest_N
-call make_jni_header.bat %1 org.cef.network.CefResponse_N
-call make_jni_header.bat %1 org.cef.network.CefURLRequest_N
+call make_jni_header.bat %1 org.org.cef.CefApp
+call make_jni_header.bat %1 org.browser.org.cef.CefBrowser_N
+call make_jni_header.bat %1 org.browser.org.cef.CefFrame_N
+call make_jni_header.bat %1 org.browser.org.cef.CefMessageRouter_N
+call make_jni_header.bat %1 org.browser.org.cef.CefRequestContext_N
+call make_jni_header.bat %1 org.callback.org.cef.CefAuthCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefBeforeDownloadCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefCommandLine_N
+call make_jni_header.bat %1 org.callback.org.cef.CefCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefContextMenuParams_N
+call make_jni_header.bat %1 org.callback.org.cef.CefDownloadItem_N
+call make_jni_header.bat %1 org.callback.org.cef.CefDownloadItemCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefDragData_N
+call make_jni_header.bat %1 org.callback.org.cef.CefFileDialogCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefJSDialogCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefMenuModel_N
+call make_jni_header.bat %1 org.callback.org.cef.CefPrintDialogCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefPrintJobCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefQueryCallback_N
+call make_jni_header.bat %1 org.callback.org.cef.CefSchemeRegistrar_N
+call make_jni_header.bat %1 org.handler.org.cef.CefClientHandler
+call make_jni_header.bat %1 org.misc.org.cef.CefPrintSettings_N
+call make_jni_header.bat %1 org.network.org.cef.CefCookieManager_N
+call make_jni_header.bat %1 org.network.org.cef.CefPostData_N
+call make_jni_header.bat %1 org.network.org.cef.CefPostDataElement_N
+call make_jni_header.bat %1 org.network.org.cef.CefRequest_N
+call make_jni_header.bat %1 org.network.org.cef.CefResponse_N
+call make_jni_header.bat %1 org.network.org.cef.CefURLRequest_N
 
 :end
 endlocal & set RETURNCODE=%ERRORLEVEL%

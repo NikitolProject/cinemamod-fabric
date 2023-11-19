@@ -61,7 +61,7 @@ public class CefInitMixin {
         //
         // CEF library extraction
         //
-        URL cefManifestURL = CefInitMixin.class.getClassLoader().getResource("cef/manifest.txt");
+        URL cefManifestURL = CefInitMixin.class.getClassLoader().getResource("org/cef/manifest.txt");
 
         if (cefManifestURL == null) {
             return;
@@ -73,7 +73,7 @@ public class CefInitMixin {
                 String line = scanner.nextLine();
                 String fileHash = line.split("  ")[0]; // TODO: check hash
                 String relFilePath = line.split("  ")[1];
-                URL cefResourceURL = CefInitMixin.class.getClassLoader().getResource("cef/" + relFilePath);
+                URL cefResourceURL = CefInitMixin.class.getClassLoader().getResource("org/cef/" + relFilePath);
 
                 if (cefResourceURL == null) {
                     continue;
